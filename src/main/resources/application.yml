@@ -1,0 +1,10 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            clientId: 574787845577-65e1x2qw4h7tr1vc1ew4t1.apps.googleusercontent.com
+            clientSecret: le58127wesv4g7r4
+
+#o ClientID e ClienteSecret tem que ser gerado no Google Cloud - Apis Services - Credentials
