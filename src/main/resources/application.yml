@@ -1,3 +1,6 @@
+server:
+  port: 9191
+
 spring:
   security:
     oauth2:
